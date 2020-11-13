@@ -1,2 +1,2 @@
 # nd-project
-First time studing Github
+This is a test project
