@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-new text
-
-
-
-pppppppppp
-=======
-edit text
->>>>>>> 15a68d816b9f8c6562639a658844a77e5372eef3
+what
